@@ -12,7 +12,8 @@
 
 </div>
 
-
+# ABS Store Analysis Code
+[ABS Store Analysis](https://nbviewer.org/github/ahmedy19/Insights-and-DataStory-for-ABS-Store/blob/main/Insights_for_ABS_Store.ipynb)
 
 # Dataset
 I tried to analyze data of [ABS Store](https://catalog.data.gov/dataset/abs-store-inventory-and-sale-items) based on this features
