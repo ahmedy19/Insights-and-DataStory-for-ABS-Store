@@ -9,7 +9,6 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 
-
 </div>
 
 # ABS Store Analysis Code
@@ -69,4 +68,5 @@ and got some insights, see 👇.
 - [Plotly](https://plotly.com)
 - [Streamlit](https://streamlit.io)
 - [ABS Store Dataset](https://catalog.data.gov/dataset/abs-store-inventory-and-sale-items)
+- [More info about ABS Store Dataset](https://data.montgomerycountymd.gov/Community-Recreation/ABS-Store-Inventory-and-Sale-Items/ib5t-5ncy)
 - [Code Editor](https://code.visualstudio.com)
